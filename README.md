@@ -1,2 +1,8 @@
 # Ecommerce-Website-QA-Project
-End -to-End manual testing for an e-commerce website including test cases, bug reports and test summary report
+This project demonstrates my manual testing skills on an e-commerce platform
+Scope - Homepage. Authentication, Product search, Cart, Checkout, Contact us
+Testing type: Functional, Negative, UI
+Tools: Google Sheet, Jam.dev
+Deliverables: Test case, Bug report, Test summary report
+Key findings;
+Critical defects were discovered in checkout and cart functionality
