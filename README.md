@@ -1,4 +1,4 @@
-# Ecommerce-Website-QA-Project
+# E-commerce-Website-QA-Project
 This project demonstrates my manual testing skills on an e-commerce platform
 Scope - Homepage. Authentication, Product search, Cart, Checkout, Contact us
 Testing type: Functional, Negative, UI
